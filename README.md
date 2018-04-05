@@ -15,5 +15,6 @@ List and create for app1 in restframework
 you must install
 
 django
+
 djangorestframework
 
